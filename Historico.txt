@@ -1,0 +1,7 @@
+1;mateo;100
+2;karen;105
+3;kevin;120
+4;luis;90
+0;karen;0
+0;sebastian peña;300
+0;karen andrea;0

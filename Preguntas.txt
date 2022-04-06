@@ -1,0 +1,25 @@
+¿Cómo se clasifican los animales según tengan columna vertebral o no?; Animales ovíparos o vivíparos;Animales vertebrados y animales invertebrados;Animales carnívoros, herbívoros u omnívoros;ninguna de las anteriores;b;1;ciencia
+¿Cómo se oxigena el cuerpo humano durante la respiración?;En los pulmones el oxígeno inspirado pasa a la sangre;Los pulmones aumentan el oxígeno que tiene el aire inspirado;Los pulmones almacenan el oxígeno que se está inspirando;En los pulmones el dióxido de carbono inspirado se transforma en oxígeno;A;2;ciencia
+De acuerdo al modelo cinético molecular de los gases, ¿por qué al calentar el aire contenido en un globo, aumenta de tamaño?;Porque aumenta la velocidad de las partículas de aire;Porque aumenta el tamaño de las partículas de aire;Porque aumenta la cantidad de partículas de aire;. Porque aumenta la masa de las partículas de aire;A;3;ciencia
+¿Según su forma de alimentarse, consideramos a los cerdos?;Herbívoros;Carnívoros;Omnívoros;veganos;c;4;ciencia
+En una especie de planta el color rojo de los pétalos de las flores es dominante sobre el color blanco. Al cruzar una planta heterocigota de flores rojas con una planta de flores blancas, ¿cuál será la proporción de su descendencia?;100% de plantas con flores rojas;75% de plantas con flores rojas;25% de plantas con flores blancas;50% de plantas con flores blancas;c;5;ciencia
+¿De qué nacionalidad era Juana de Arco?;Inglesa;Italiana;Francesa;Española;c;1;historia
+¿Qué famoso filósofo fue maestro de Alejandro Magno durante cinco años?;Sócrates;Aristóteles;Platón;Eracles;b;2;historia
+¿Quién fue el último zar de Rusia?;Nicolas II;Pedro I el Grande;Alejandro II;Lenny;a;3;historia
+¿Qué hecho inició la Segunda Guerra Mundial?;Alemania invadió Polonia;El asesinato del archiduque Francisco Fernando;Hitler invadió Austria;Murio un soldado aleman;a;4;historia
+¿Dónde se han encontrado principalmente pinturas del período Paleolítico?;No existen pinturas procedentes del Peleolítico;En vasijas decoradas;En arboles;En cuevas;d;5;historia
+¿Qué selección ganó la Copa Mundial de Fútbol en Francia 98?;Alemania;Brasil;Francia;Argentina;c;1;deportes
+¿Cuántos jugadores componen un equipo de rugby?;11;20;16;15;d;2;deportes
+¿En qué país se inventó el voleibol?;Estados unidos;Venezuela;Reino unidos;Francia;a;3;deportes
+¿Quién ganó cuatro mundiales consecutivos de Fórmula 1?;Varon Sheld;juan Pablo Montoya;sebastian Vettel;Lugy Tornel;c;4;deportes
+¿Cuántos títulos de motociclismo ha conseguido Valentino Rossi?;5;3;1;9;d;5;deportes
+¿Cuál es la capital de Turquía?;marypol;Kaukaso;Ankara;Santask;c;1;geografia
+¿Cuál es el nombre del desierto de México?Sonora;desierto tuxclan;Pintaclau;Azteson;a;2;geografia
+¿En qué isla italiana está Palermo?;Suriname;Bollonia;Sicilia;Caucaso;c;3;geografia
+¿Cuál es el estado más grande de los Estados Unidos?;California;New york,Florida;Alaska;d;4;geografia
+¿Cuál es el río más largo de Europa?;Nilo;Magdalena;Volga;Kairo;c;5;geografia
+¿Quién pintó "La Gioconda"?;Leonardo da vinci;Tizano;Miguel angel;Pablo Picasso;a;1;arte
+¿Cómo se llama este pintor que se cortó la oreja?;Paul Cezanne;Salvador Dali;Vincent van gogh;Herctor Herrera;c;2;arte
+¿Cuál es el nombre de este famosísimo cuadro de Edvard Munch?;El fantasma;El grito;Mundo azul;El hombre;b;3;arte
+¿Quién de ellos NO fue un muralista mexicano?;Pedro Lira;Diego Rivera;David Alfaro Siqueiros;Jose Clemente Orozco;a;4;arte
+¿Quién pintó esto la Capilla Sixtina de El Vaticano?;Francisco de Goya;Cravaggio;Claude Monet;Miguel Angel;d;5;arte
