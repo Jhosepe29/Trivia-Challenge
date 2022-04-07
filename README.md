@@ -4,4 +4,6 @@
 
 Se uso el patron MVC para el desarrollo.
 
+La classe main esta en La carpeta inicio.
+
 
